@@ -1,0 +1,7 @@
+torch
+numpy
+scipy
+smplx
+trimesh
+pyrender
+Pillow
