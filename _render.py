@@ -1,5 +1,6 @@
 """Shared 3-column renderer: input | ground truth | prediction, one row per sequence."""
 import numpy as np
+from pathlib import Path
 from rendering import render_scene, make_ground, verts
 from PIL import Image, ImageDraw
 
@@ -16,6 +17,7 @@ def make_panels(name, qs, labels, colors, betas, faces, bm, tr, W1):
 
 
 def save_gif(rows, faces, out_path, W1, cam=2.7, duration=90):
+    Path(out_path).parent.mkdir(parents=True, exist_ok=True)
     step = max(1, W1 // 40)
     frames = []
     for t in range(0, W1, step):

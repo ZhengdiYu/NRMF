@@ -10,8 +10,11 @@
 <p align="center"><sup>1</sup> Imperial College London &nbsp; <sup>2</sup> Meta Reality Labs</p>
 
 <p align="center">
-  <a href="https://circle-group.github.io/research/NRMF/">Project Page</a> &nbsp; | &nbsp;
-  <a href="https://arxiv.org/abs/2509.09667">Paper</a>
+  <a href="https://circle-group.github.io/research/NRMF/"><img src="https://img.shields.io/badge/Project_Page-2563EB?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=white" alt="Project Page"></a>
+  &nbsp;
+  <a href="https://arxiv.org/abs/2509.09667"><img src="https://img.shields.io/badge/Paper-B31B1B?style=for-the-badge&amp;logo=arxiv&amp;logoColor=white" alt="Paper on arXiv"></a>
+  &nbsp;
+  <a href="https://youtu.be/jbW68A2aYWs"><img src="https://img.shields.io/badge/Video-FF0000?style=for-the-badge&amp;logo=youtube&amp;logoColor=white" alt="Watch the video"></a>
 </p>
 
 <p align="center">
